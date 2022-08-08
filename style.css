@@ -1,0 +1,13 @@
+body{
+    background: rgb(174,228,238);
+    background: radial-gradient(circle, rgba(174,228,238,1) 0%, rgba(203,148,233,1) 100%);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    color: darkslategrey;
+    font-size: 300%;
+    }
+div{
+   margin-left: 35%;
+}
